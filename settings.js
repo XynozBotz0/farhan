@@ -34,7 +34,7 @@ global.timezone = 'Asia/Jakarta' //  timezone wib
 global.owner = ["6285781938737","6285781938737"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "+6285781938737" // nomor wa kalian
 global.ownernomerr = "+6285781938737" //nmr wa kalian
-global.thumbnail = "./image/20220711_002004.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.thumbnail = "./image/IMG-20220714-WA0020.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/20220712_133722.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 
